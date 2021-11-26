@@ -4,3 +4,4 @@
 ## Task
 * Create an abstract data type (deque) using pointers
 * Make Simple Selection Sort
+* Calculate sort time
